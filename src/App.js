@@ -44,7 +44,6 @@ const projects = [
   }
 ]
 
-
 function App() {
   return (
     <div className="App">

@@ -4,12 +4,12 @@
 }
 
 .hero-wrapper h1 {
-    font-size: 8em;
+    font-size: min(15vw, 8em);
     line-height: 1em;
 }
 
 .hero-wrapper p {
-    font-size: 2.8em;
+    font-size: min(5.3vw, 2.8em);
     font-weight: 200;
     letter-spacing: 0.1em;
 }

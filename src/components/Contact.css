@@ -1,7 +1,7 @@
 .contact {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 18px;
+    gap: 36px;
 }
 
 .contact svg {
@@ -17,4 +17,10 @@
 .contact a {
     font-size: 1.2em;
     font-weight: 700;
+}
+
+@media all and (max-width:767px) {
+    .contact {
+        grid-template-columns: 1fr;
+    }
 }
