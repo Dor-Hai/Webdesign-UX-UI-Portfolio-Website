@@ -3,7 +3,7 @@ import avatar from '../images/avatar.png';
 
 export default function Profile() {
   return (
-    <div className="profile">
+    <div className="profile flex-container">
         <div className="row">
            <img src={avatar} alt="Dor Hai" />
         </div>

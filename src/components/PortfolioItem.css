@@ -1,5 +1,5 @@
 .project {
-
+    padding: 1em 0;
 }
 
 .project .project-title {
@@ -9,17 +9,17 @@
 }
 
 .project .project-desc {
-    margin-bottom: 1.2em;
+    margin-bottom: 1.5em;
 }
 
 .project img {
     max-width: 100%;
-    margin-bottom: 1em;
+    margin-bottom: 1.5em;
     border-radius: 15px;
     box-shadow: 9px 9px 30px rgba(0, 0, 0, 0.1);
 }
 
 .project a {
-    color: #333;
+    color: var(--midgrey);
     font-size: 1.2em;
 }

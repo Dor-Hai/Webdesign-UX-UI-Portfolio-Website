@@ -68,6 +68,9 @@ function App() {
         </Section>
       ))}
       <Section>
+        <p className='title'>Contact me</p>
+      </Section>
+      <Section>
         <Contact />
       </Section>
     </div>
