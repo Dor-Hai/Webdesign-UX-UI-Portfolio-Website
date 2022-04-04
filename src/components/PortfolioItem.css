@@ -1,0 +1,25 @@
+.project {
+
+}
+
+.project .project-title {
+    font-size: 1.7em;
+    font-weight: 700;
+    margin-bottom: .2em;
+}
+
+.project .project-desc {
+    margin-bottom: 1.2em;
+}
+
+.project img {
+    max-width: 100%;
+    margin-bottom: 1em;
+    border-radius: 15px;
+    box-shadow: 9px 9px 30px rgba(0, 0, 0, 0.1);
+}
+
+.project a {
+    color: #333;
+    font-size: 1.2em;
+}

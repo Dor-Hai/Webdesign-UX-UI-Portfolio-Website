@@ -1,0 +1,11 @@
+.profile {
+    display: flex;
+    text-align: left;
+    align-items: center;
+    gap: 18px;
+}
+
+.profile .name {
+    font-size: 22.5px;
+    font-weight: 700;
+}
