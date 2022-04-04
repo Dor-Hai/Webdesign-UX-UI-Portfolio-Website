@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c27f5a84.css",
+    "main.js": "/static/js/main.25516bcf.js",
+    "static/media/smart-moves.png": "/static/media/smart-moves.e9b3fce80430658b2ed5.png",
+    "static/media/iris-dror.png": "/static/media/iris-dror.c9f96a9dc700f9ad1161.png",
+    "static/media/treetops.png": "/static/media/treetops.7c3ad38f17b9cb2cbf9b.png",
+    "static/media/nehama-dror.png": "/static/media/nehama-dror.edda1aef5e6625e963c4.png",
+    "static/media/github.svg": "/static/media/github.faf8506d1f8c1deea23527f37de3e2be.svg",
+    "static/media/link.svg": "/static/media/link.1a4d956ff927502561afeb233ad7695f.svg",
+    "static/media/phone.svg": "/static/media/phone.1a1b85b7682eb95a06be1c27f5e6d1eb.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.9770cb747df8a307b33578e02806c3a4.svg",
+    "static/media/email.svg": "/static/media/email.aff50d730513f9035d14d625bffa54cf.svg",
+    "index.html": "/index.html",
+    "main.c27f5a84.css.map": "/static/css/main.c27f5a84.css.map",
+    "main.25516bcf.js.map": "/static/js/main.25516bcf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c27f5a84.css",
+    "static/js/main.25516bcf.js"
+  ]
+}
