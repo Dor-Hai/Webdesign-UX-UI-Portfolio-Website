@@ -30,7 +30,7 @@ const projects = [
   },
   {
     id: 3,
-    title: 'Smartmovesi',
+    title: 'Smartmoves',
     description: 'A Landing Page Design for a gymnastic instructor',
     image: smartmoves,
     url: 'https://smartmoves.co.il/landing/'
